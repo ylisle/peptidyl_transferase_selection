@@ -36,6 +36,10 @@ Supplementary Figure 2
 
 This includes the QuickFold predicted folding of the primer at the barcode region and can be downloaded here: 
 
+https://drive.google.com/file/d/1F3GitCGy3K3vYj7S2mdlh2eSvUK1SRnW/view?usp=sharing
+
 Suppmentary Figure 3
 
 This include the QuickFold predicted binding of the PCR1 primer to the RTPolyA and can be downloaded here: 
+
+https://drive.google.com/file/d/1GhBOF9l8FpxP_y5zzMYvWZ0hHa9_pyBf/view?usp=sharing
